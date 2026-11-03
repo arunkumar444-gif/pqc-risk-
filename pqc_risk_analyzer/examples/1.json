@@ -1,0 +1,14 @@
+{
+  "cryptographic_assets": [
+    {
+      "asset_name": "Arun Medical EHR & Genetic Vault",
+      "environment": "Production-Healthcare",
+      "algorithm_name": "RSA-2048",
+      "algorithm_category": "Asymmetric Key Exchange",
+      "key_size": "2048-bit",
+      "cryptographic_purpose": "Key Transport",
+      "exposure": 5, "sensitivity": 5, "lifetime": 5, "external": 4, "criticality": 5,
+      "readiness": 20.0, "agility": 30.0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cryptographic_assets": [
+    {
+      "asset_name": "Adhi University Degree & Certificate Portal",
+      "environment": "Production-Education",
+      "algorithm_name": "RSA",
+      "algorithm_category": "Digital Signature",
+      "key_size": "4096-bit",
+      "cryptographic_purpose": "Digital Signature",
+      "exposure": 3, "sensitivity": 3, "lifetime": 2, "external": 3, "criticality": 3,
+      "readiness": 55.0, "agility": 60.0
+    }
+  ]
+}

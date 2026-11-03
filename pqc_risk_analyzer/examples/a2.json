@@ -1,0 +1,14 @@
+{
+  "cryptographic_assets": [
+    {
+      "asset_name": "Adhi Smart Factory SCADA",
+      "environment": "Industrial",
+      "algorithm_name": "AES-128",
+      "algorithm_category": "Symmetric Cipher",
+      "key_size": "128-bit",
+      "cryptographic_purpose": "Encryption",
+      "exposure": 3, "sensitivity": 3, "lifetime": 3, "external": 2, "criticality": 3,
+      "readiness": 50.0, "agility": 50.0
+    }
+  ]
+}

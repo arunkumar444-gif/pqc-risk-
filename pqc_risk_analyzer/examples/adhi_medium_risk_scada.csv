@@ -1,0 +1,2 @@
+asset_name,environment,algorithm_name,algorithm_category,key_size,cryptographic_purpose,exposure,sensitivity,lifetime,external,criticality,readiness,agility
+Adhi SCADA Smart Factory Controller,Production-Industrial,AES-128,Symmetric Cipher,128-bit,Symmetric Encryption,3,3,3,3,3,50.0,60.0

@@ -1,0 +1,14 @@
+{
+  "cryptographic_assets": [
+    {
+      "asset_name": "Anto PQC Pilot Staging Sandbox",
+      "environment": "R&D-Staging",
+      "algorithm_name": "ML-KEM-768",
+      "algorithm_category": "Post-Quantum KEM",
+      "key_size": "ML-KEM-768",
+      "cryptographic_purpose": "Key Encapsulation",
+      "exposure": 1, "sensitivity": 1, "lifetime": 1, "external": 1, "criticality": 1,
+      "readiness": 95.0, "agility": 90.0
+    }
+  ]
+}

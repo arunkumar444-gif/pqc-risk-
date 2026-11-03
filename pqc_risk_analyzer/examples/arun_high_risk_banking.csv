@@ -1,0 +1,2 @@
+asset_name,environment,algorithm_name,algorithm_category,key_size,cryptographic_purpose,exposure,sensitivity,lifetime,external,criticality,readiness,agility
+Arun Wealth Management Gateway,Production-Finance,ECDH,Asymmetric Key Exchange,secp256r1,Key Exchange,5,5,5,5,5,15.0,25.0

@@ -1,0 +1,2 @@
+asset_name,environment,algorithm_name,algorithm_category,key_size,cryptographic_purpose,exposure,sensitivity,lifetime,external,criticality,readiness,agility
+Anto Personal Blog & Portfolio Server,Public-Web,AES-256,Symmetric Cipher,256-bit,Symmetric Encryption,1,1,1,2,1,85.0,80.0
